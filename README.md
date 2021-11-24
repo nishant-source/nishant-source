@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nishant-source
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Nishant (shaan);
+- 👀 I’m interested in web designing (Front-end developer)
+- 🌱 I’m currently learning Bootstrap
+- 💞️ I love to do HTML, CSS, JAVASCRIPT
+- 📫 Gmail -- Dontknowqwe@gmail.com
 
 <!---
 nishant-source/nishant-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
