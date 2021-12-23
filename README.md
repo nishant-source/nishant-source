@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishant (shaan);
 - 👀 I’m interested in web designing (Front-end developer)
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Jquery
 - 💞️ I love to do HTML, CSS, JAVASCRIPT
 - 📫 Gmail -- Dontknowqwe@gmail.com
 
