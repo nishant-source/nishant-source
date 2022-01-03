@@ -7,9 +7,9 @@
 
 My work-
 
-1). https://baspakomle.wixsite.com/my-site
-2). https://movies-crap.web.app/
-3). Nishant.dultr.in
+- https://baspakomle.wixsite.com/my-site
+- https://movies-crap.web.app/
+- Nishant.dultr.in
 
 
 <!---
