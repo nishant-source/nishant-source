@@ -10,10 +10,10 @@
 My work :) 
 
 - https://to-do-list-plans.web.app/
+- https://resume-nishant.web.app/
 - https://baspakomle.wixsite.com/my-site
 - https://movies-crap.web.app/
-- Nishant.dultr.in
-
+- https://Nishant.dultr.in
 
 <!---
 nishant-source/nishant-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
