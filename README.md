@@ -9,12 +9,12 @@
 
 My work :) 
 
+- https://corkesamla.wixsite.com/nishant-portfolio
 - https://to-do-list-plans.web.app/
 - https://resume-nishant.web.app/
 - https://movies-crap.web.app/
-- https://Nishant.dultr.in
 - https://baspakomle.wixsite.com/my-site
-- https://codepen.io/shaan_/full/mdBzpmw
+- https://codepen.io/shaan_/
 
 <!---
 nishant-source/nishant-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
