@@ -9,7 +9,7 @@
 
 My work :) 
 
-- https://nishant-portfolio.wixsite.com/nishant-portfolio
+- https://nishantsainih.wixsite.com/nishant-portfolio
 - https://to-do-list-plans.web.app/
 - https://resume-nishant.web.app/
 - https://movies-crap.web.app/
