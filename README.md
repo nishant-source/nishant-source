@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nishant (shaan);
 - 👀 I’m interested in web designing (Front-end developer)
-- 🌱 I’m currently learning Jquery
-- 💞️ I love to do HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning Jquery, TailWindCSS
+- 💞️ I love to do HTML, CSS, JAVASCRIPT, Jquery, TailWindCSS, manage Dataabase
+- 💞️ Work with lot of platforms like Wordpress, Wix, Weebly, Shopify
 - 📫 Gmail -- Dontknowqwe@gmail.com
 
 
