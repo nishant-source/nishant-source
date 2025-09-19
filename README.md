@@ -1,22 +1,18 @@
 - 👋 Hi, I’m @Nishant (shaan);
-- 👀 I’m interested in web designing (Front-end developer)
-- 🌱 I’m currently learning Jquery, TailWindCSS
-- 💞️ I love to do HTML, CSS, JAVASCRIPT, Jquery, TailWindCSS, manage Dataabase
+- 👀 I’m interested in web designing & develop it.
+- 🌱 I’m currently learning React.
+- 💞️ I love to do HTML, CSS, JAVASCRIPT, Jquery, TailWindCSS, manage Database
 - 💞️ Work with lot of platforms like Wordpress, Wix, Weebly, Shopify
-- 📫 Gmail -- Dontknowqwe@gmail.com
+- 📫 Gmail -- Nishant.fullstac@gmail.com
 
 
 
 
 My work :) 
 
-- https://nishantsainih.wixsite.com/nishant-portfolio
-- https://look-a-like-googl.web.app/
-- https://to-do-list-plans.web.app/
-- https://resume-nishant.web.app/
-- https://look-a-like-googl.web.app
-- https://movies-film.web.app/
-- https://baspakomle.wixsite.com/my-site
+- https://nishantmade.netlify.app/
+- https://to-do-daily-list.web.app/
+- https://movies-crap-old.netlify.app/
 - https://codepen.io/shaan_/
 
 <!---
